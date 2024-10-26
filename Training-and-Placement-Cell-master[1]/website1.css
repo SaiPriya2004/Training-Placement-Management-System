@@ -1,0 +1,25 @@
+.bodypart1
+{
+	width:1000px;
+	height:auto;
+	background-color:white;
+	border-radius:10px;
+	position:relative;
+	top:30px;
+	left:-10px;
+}
+
+.bodypart2
+{
+	width:950px;
+	height:auto;
+	background-color:white;
+	border-radius:10px;
+	position:relative;
+	top:30px;
+	left:-10px;
+	padding-left:50px;
+	text-align: left;
+
+}
+
